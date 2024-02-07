@@ -11,7 +11,7 @@ console.log(x); // Output: undefined
 let obj = {};
 console.log(obj.property); // Output: undefined
 
-// NULL: primitive
+// NULL: object
 
 //null is a special value in JavaScript. It represents "nothing", "empty" or "value unknown".
 //It is a primitive value and is also a type of data (null) in JavaScript.
@@ -27,3 +27,5 @@ console.log(myVar); // Output: null
 
 let result = 10 / "hello";
 console.log(result); // Output: NaN
+
+
