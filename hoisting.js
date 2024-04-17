@@ -7,6 +7,10 @@
 console.log(x); // undefined
 var x = 5;
 
+//it the variable let or const:
+console.log(y); // ReferenceError: y is not defined
+let y = 5;
+
 // 2 - FUNCTION: Hoisting:
 
 // Function declarations are hoisted to the top of their containing scope, so you can use a function before it's declared.

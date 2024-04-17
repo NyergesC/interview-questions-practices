@@ -29,3 +29,5 @@ let result = 10 / "hello";
 console.log(result); // Output: NaN
 
 
+
+
